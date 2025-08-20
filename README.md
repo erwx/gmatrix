@@ -1,5 +1,3 @@
-# gmatrix
-
 A terminal-based "Matrix" effect written in Go because:
 
 1. The Matrix is cool.
